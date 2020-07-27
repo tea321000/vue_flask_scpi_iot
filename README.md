@@ -5,6 +5,16 @@
 
 ![整体架构](https://github.com/tea321000/vue_flask_scpi_iot/blob/master/imgs/A0%E5%9B%BE%E7%BA%B8-1.png "整体架构")
 
+![树莓派终端线上注册逻辑](https://github.com/tea321000/vue_flask_scpi_iot/blob/master/imgs/A0%E5%9B%BE%E7%BA%B8-5.png "树莓派终端线上注册逻辑")
+
+![用户注册逻辑](https://github.com/tea321000/vue_flask_scpi_iot/blob/master/imgs/A0%E5%9B%BE%E7%BA%B8-5.png "用户注册逻辑")
+
+![用户注册逻辑](https://github.com/tea321000/vue_flask_scpi_iot/blob/master/imgs/A0%E5%9B%BE%E7%BA%B8-6.png "用户注册逻辑")
+
+![用户登录逻辑](https://github.com/tea321000/vue_flask_scpi_iot/blob/master/imgs/A0%E5%9B%BE%E7%BA%B8-7.png "用户登录逻辑")
+
+![设备动态显示逻辑](https://github.com/tea321000/vue_flask_scpi_iot/blob/master/imgs/A0%E5%9B%BE%E7%BA%B8-8.png "设备动态显示逻辑")
+
 使用方法：
 
 1、前端frontend主要通过request.js的baseURL来与后端进行通信，需要更改为自己的域名和端口；
